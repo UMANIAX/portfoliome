@@ -5,10 +5,15 @@ const styles = {
     margin: '10px'
 }
 
+const buttonStyle = {
+
+    margin: '2px'
+}
+
 const dimIt = appName => $(`.${appName}.ui.dimmer`).dimmer('show')
 const WorkCards = ({smallImg, appName, bigImg, appDesc, tech, site}) =>
     <div className={`column`}>
-        <div className="ui card">
+        <div className="ui card centered">
             <div className="content">
                 <div className="right floated meta"/>
                 <img className="ui avatar image" src={`../../data/${smallImg}`}/> {appName}
@@ -19,11 +24,11 @@ const WorkCards = ({smallImg, appName, bigImg, appDesc, tech, site}) =>
             <div className="content">
                 <p>{appDesc}</p>
             </div>
-            <div className="extra content container ui">
-                <button className="ui secondary button dim-but" onClick={() => dimIt(appName.replace(/\s/g, ''))}>
+            <div className="extra content container ui centered">
+                <button style={buttonStyle} className="ui secondary button dim-but" onClick={() => dimIt(appName.replace(/\s/g, ''))}>
                     View Tech
                 </button>
-                <a href={site}><button className="ui secondary button">
+                <a style={buttonStyle} href={site}><button className="ui secondary button">
                     Go To App
                 </button></a>
             </div>
