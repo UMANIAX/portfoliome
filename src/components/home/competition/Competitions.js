@@ -1,4 +1,4 @@
-import {competitions} from '../../../../data/aboutData'
+import {competitions} from '../../../../dist/data/aboutData'
 import styles from '../../../stylesheets/aboutMe.css'
 import CompCards from './CompCards'
 
