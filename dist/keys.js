@@ -1,4 +1,4 @@
 export const keys = {
 
-    customAPIReq: 'e45e55f965369d03794d81a1f092e1d260872a46'
+    customAPIReq: '6b44451a74fef2a6501b58add9428a4350dcb576'
 }
