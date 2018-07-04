@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --mode development --open",
+    "start": "webpack-dev-server",
     "build": "webpack --mode production"
   },
   "keywords": [],
@@ -29,12 +28,14 @@
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
     "axios": "^0.18.0",
+    "express": "^4.16.3",
     "nodemailer": "^4.6.7",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
     "redux": "^4.0.0",
+    "uglifyjs-webpack-plugin": "^1.2.7",
     "uuid": "^3.3.2",
     "xml2js": "^0.4.19"
   }

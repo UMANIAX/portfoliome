@@ -1,10 +1,12 @@
 const HtmlWebPackPlugin = require("html-webpack-plugin");
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin')
+const webpack = require('webpack')
 const path = require('path')
 
 module.exports = {
     entry: "./src/index.js",
     output: {
-        path: path.join(__dirname, 'dist', 'assets'),
+        path: path.join(__dirname, 'dist'),
         filename: "bundle.js",
         sourceMapFilename: 'bundle.map'
     },
@@ -44,6 +46,7 @@ module.exports = {
 
             template: "./src/index.html",
             filename: "./index.html"
-        })
+        }),
+        new UglifyJSPlugin()
     ]
 }
