@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09660335-955f-4b99-bba3-9b7fd6efb773" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/store/reducers.js" />
+        <option value="$PROJECT_DIR$/src/store/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Hi.js" />
+        <option value="$PROJECT_DIR$/src/components/tileData.js" />
+        <option value="$PROJECT_DIR$/semantic/src/semantic.less" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/stylesheets/connectButton.css" />
+        <option value="$PROJECT_DIR$/src/stylesheets/face.css" />
+        <option value="$PROJECT_DIR$/src/stylesheets/navigator.css" />
+        <option value="$PROJECT_DIR$/src/stylesheets/reveal.css" />
+        <option value="$PROJECT_DIR$/src/components/Education.js" />
+        <option value="$PROJECT_DIR$/data/timelineInfo.js" />
+        <option value="$PROJECT_DIR$/src/components/TimeLineCards.js" />
+        <option value="$PROJECT_DIR$/src/stylesheets/myJourney.css" />
+        <option value="$PROJECT_DIR$/src/components/MyJourney.js" />
+        <option value="$PROJECT_DIR$/src/components/WorkCards.js" />
+        <option value="$PROJECT_DIR$/src/components/MyWork.js" />
+        <option value="$PROJECT_DIR$/src/components/RepoComponent.js" />
+        <option value="$PROJECT_DIR$/src/components/Face.js" />
+        <option value="$PROJECT_DIR$/src/components/ShortInfo.js" />
+        <option value="$PROJECT_DIR$/src/stylesheets/home.css" />
+        <option value="$PROJECT_DIR$/src/components/Competitions.js" />
+        <option value="$PROJECT_DIR$/src/components/CompCards.js" />
+        <option value="$PROJECT_DIR$/src/components/GitHubFeed.js" />
+        <option value="$PROJECT_DIR$/src/components/Loader.js" />
+        <option value="$PROJECT_DIR$/src/components/BlogCard.js" />
+        <option value="$PROJECT_DIR$/src/components/Blog.js" />
+        <option value="$PROJECT_DIR$/tasklist" />
+        <option value="$PROJECT_DIR$/src/components/Contacts.js" />
+        <option value="$PROJECT_DIR$/src/stylesheets/aboutMe.css" />
+        <option value="$PROJECT_DIR$/src/components/Contact.js" />
+        <option value="$PROJECT_DIR$/src/mail.js" />
+        <option value="$PROJECT_DIR$/src/keys.js" />
+        <option value="$PROJECT_DIR$/src/components/FormForContact.js" />
+        <option value="$PROJECT_DIR$/src/components/ConnectButtonList.js" />
+        <option value="$PROJECT_DIR$/src/components/about/myWork/TechCards.js" />
+        <option value="$PROJECT_DIR$/data/aboutData.js" />
+        <option value="$PROJECT_DIR$/src/components/PageTemplate.js" />
+        <option value="$PROJECT_DIR$/src/components/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigator.js" />
+        <option value="$PROJECT_DIR$/src/components/about/myWork/MyWork.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/keys.js" />
+        <option value="$PROJECT_DIR$/dist/keys.js" />
+        <option value="$PROJECT_DIR$/src/components/about/myWork/WorkCards.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/stylesheets/contact.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/components/contact/FormForContact.js" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../meetApp/meetApp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components/contact" />
+      <recent name="$PROJECT_DIR$/src/components/home/competition" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09660335-955f-4b99-bba3-9b7fd6efb773" name="Default" comment="" />
+      <created>1530028024462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530028024462</updated>
+      <workItem from="1530028025741" duration="7417000" />
+      <workItem from="1530071559762" duration="3169000" />
+      <workItem from="1530081188212" duration="101000" />
+      <workItem from="1530088231563" duration="13528000" />
+      <workItem from="1530150685380" duration="13677000" />
+      <workItem from="1530256309828" duration="6939000" />
+      <workItem from="1530326830541" duration="2457000" />
+      <workItem from="1530340010587" duration="29752000" />
+      <workItem from="1530421237158" duration="964000" />
+      <workItem from="1530427247992" duration="30403000" />
+      <workItem from="1530498737772" duration="28084000" />
+      <workItem from="1530536531558" duration="16106000" />
+      <workItem from="1530553963187" duration="1000" />
+      <workItem from="1530580007605" duration="2494000" />
+      <workItem from="1530591756847" duration="40706000" />
+      <workItem from="1530701853112" duration="8729000" />
+      <workItem from="1530713940631" duration="32000" />
+      <workItem from="1530714061691" duration="7001000" />
+      <workItem from="1530721901679" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="211565000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16974169" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5002636" side_tool="true" weight="0.32843652" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49973643" visible="true" weight="0.3277487" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32948583" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/tileData.js" />
+    <entry file="file://$PROJECT_DIR$/semantic/tasks/collections/build.js" />
+    <entry file="file://$PROJECT_DIR$/semantic/tasks/build/assets.js" />
+    <entry file="file://$PROJECT_DIR$/semantic/src/semantic.less" />
+    <entry file="file://$PROJECT_DIR$/semantic/dist/semantic.css" />
+    <entry file="file://$PROJECT_DIR$/semantic/dist/semantic.min.css" />
+    <entry file="file://$PROJECT_DIR$/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/reveal.css" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/connectButton.css" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/face.css" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/navigator.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/home/journey/TimeLineCards.js" />
+    <entry file="file://$PROJECT_DIR$/data/sched.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/portfolio.png" />
+    <entry file="file://$PROJECT_DIR$/src/components/home/ShortInfo.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/home/Face.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/home/competition/CompCards.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/BlogCard.js" />
+    <entry file="file://$PROJECT_DIR$/tasklist" />
+    <entry file="file://$PROJECT_DIR$/src/components/Blog.js" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/home.css" />
+    <entry file="file://$PROJECT_DIR$/src/mail.js" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/aboutMe.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/contact/Contact.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/contact/ConnectButtonList.js" />
+    <entry file="file://$PROJECT_DIR$/data/aboutData.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/about/myWork/TechCards.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Loader.js" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/App.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Navigator.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/PageTemplate.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/home/competition/Competitions.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/home/journey/MyJourney.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/about/github/RepoComponent.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/about/github/GitHubFeed.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/about/myWork/MyWork.js" />
+    <entry file="file://$PROJECT_DIR$/src/keys.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/keys.js" />
+    <entry file="file://$PROJECT_DIR$/keys.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/contact.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/contact/FormForContact.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/about/myWork/WorkCards.js" />
+    <entry file="file://$PROJECT_DIR$/dist/keys.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/semantic/dist/semantic.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
+  </component>
+</project>
