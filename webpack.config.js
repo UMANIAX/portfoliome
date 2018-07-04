@@ -44,9 +44,15 @@ module.exports = {
     plugins: [
         new HtmlWebPackPlugin({
 
-            template: "./src/index.html",
+            template: "./index.html",
             filename: "./index.html"
         }),
         new UglifyJSPlugin()
-    ]
+    ],
+    devServer: {
+        historyApiFallback: true,
+        inline: true,
+        contentBase: './dist',
+        port: 5000
+    }
 }
