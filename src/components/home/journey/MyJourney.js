@@ -1,5 +1,5 @@
 import TimeLineCards from './TimeLineCards'
-import {timelineInfo} from '../../../../dist/data/aboutData'
+import {timelineInfo} from '../../../../data/aboutData'
 import styles from '../../../stylesheets/aboutMe.css'
 
 const MyJourney = () =>

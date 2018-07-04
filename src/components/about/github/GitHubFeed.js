@@ -35,7 +35,7 @@ export default class GitHubFeed extends Component {
         return (
             <div>
                 <div className={`ui raised text segment ${styles.gitHub} ${styles.segmentWidth}`}>
-                    <a className={`ui header inverted`}><img src='../../../../dist/data/github-logo.png'/> GitHub Repos</a>
+                    <a className={`ui header inverted`}><img src='../../../../data/github-logo.png'/> GitHub Repos</a>
                 </div>
                 <div className={`ui raised text segment ${styles.belowTitle} ${styles.segmentWidth}`}>
                     {!this.state.repoData ?

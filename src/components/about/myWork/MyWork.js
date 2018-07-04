@@ -1,4 +1,4 @@
-import {workinfo} from "../../../../dist/data/aboutData";
+import {workinfo} from "../../../../data/aboutData";
 import WorkCards from './WorkCards'
 
 const MyWork = () =>
